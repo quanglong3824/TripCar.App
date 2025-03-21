@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847140816793",
+    "project_id": "tripcar-app",
+    "storage_bucket": "tripcar-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847140816793:android:3ee733f63fa3ee4751f508",
+        "android_client_info": {
+          "package_name": "com.tripcar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbOGPpL4tTrTvtMLLFNP-6XjcnEf_PEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
